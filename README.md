@@ -5,7 +5,6 @@ Small Base Mini App to check live cryptocurrency prices.
 This project was built to explore Base Mini Apps, Farcaster integration
 and simple API communication from a frontend application.
 
----
 
 ## What this app does
 
@@ -14,7 +13,6 @@ and simple API communication from a frontend application.
 - Displays price in USD
 - Works as a Base Mini App
 
----
 
 ## Tech Stack
 
@@ -24,7 +22,6 @@ and simple API communication from a frontend application.
 - Base Mini Apps
 - Public Crypto API (CoinGecko)
 
----
 
 ## Getting Started
 
