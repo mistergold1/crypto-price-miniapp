@@ -7,7 +7,7 @@ and simple API communication from a frontend application.
 
 ---
 
-## 🧠 What this app does
+## What this app does
 
 - Allows user to enter a crypto symbol (BTC, ETH, etc.)
 - Fetches current price from public API
@@ -16,7 +16,7 @@ and simple API communication from a frontend application.
 
 ---
 
-## 🧱 Tech Stack
+## Tech Stack
 
 - React
 - Next.js
@@ -26,7 +26,7 @@ and simple API communication from a frontend application.
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Install dependencies
 ```bash
