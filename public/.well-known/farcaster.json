@@ -1,0 +1,13 @@
+{
+  "miniapp": {
+    "version": "1",
+    "name": "Crypto Price Checker",
+    "subtitle": "Live crypto prices",
+    "description": "Check crypto prices instantly",
+    "homeUrl": "https://YOUR_VERCEL_URL",
+    "iconUrl": "https://YOUR_VERCEL_URL/icon.png",
+    "splashImageUrl": "https://YOUR_VERCEL_URL/splash.png",
+    "splashBackgroundColor": "#000000",
+    "tags": ["crypto", "price", "example"]
+  }
+}
